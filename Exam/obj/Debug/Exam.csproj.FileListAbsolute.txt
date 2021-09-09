@@ -1,0 +1,7 @@
+C:\Dot.Net\C# Advanced\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Dot.Net\C# Advanced\Exam\Exam\bin\Debug\Exam.exe
+C:\Dot.Net\C# Advanced\Exam\Exam\bin\Debug\Exam.pdb
+C:\Dot.Net\C# Advanced\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+C:\Dot.Net\C# Advanced\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Dot.Net\C# Advanced\Exam\Exam\obj\Debug\Exam.exe
+C:\Dot.Net\C# Advanced\Exam\Exam\obj\Debug\Exam.pdb
