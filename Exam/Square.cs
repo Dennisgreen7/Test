@@ -17,7 +17,7 @@ namespace Exam
             this.SquareSize = rnd.Next(3, 10);
         }
 
-        public override int [,] PrintShape(ref int[,] BoardPixels)
+        public override int [,] PrintShape( int[,] BoardPixels)
         {
             int TzirX=0, TzirY=0;
             //Window Size

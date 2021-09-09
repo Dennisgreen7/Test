@@ -8,6 +8,6 @@ namespace Exam
 {
      public abstract class Shape
     {
-        public abstract int[,] PrintShape(ref int[,] BoardPixels);
+        public abstract int[,] PrintShape(int[,] BoardPixels);
     }
 }
