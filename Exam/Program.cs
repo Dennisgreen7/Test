@@ -18,19 +18,19 @@ namespace Exam
                 {
                     case 0:
                         Line line = new Line();
-                        BoardPixels = line.PrintShape(ref BoardPixels);
+                        BoardPixels = line.PrintShape( BoardPixels);
                         break;
                     case 1:
                         Rectangle rectangle = new Rectangle();
-                        BoardPixels = rectangle.PrintShape(ref BoardPixels);
+                        BoardPixels = rectangle.PrintShape( BoardPixels);
                         break;
                     case 2:
                         Square square = new Square();
-                        BoardPixels = square.PrintShape(ref BoardPixels);
+                        BoardPixels = square.PrintShape( BoardPixels);
                         break;
                     case 3:
                         Triangle triangle = new Triangle();
-                        BoardPixels = triangle.PrintShape(ref BoardPixels);
+                        BoardPixels = triangle.PrintShape( BoardPixels);
                         break;
                 }
             }
@@ -56,6 +56,7 @@ namespace Exam
             for (int i = 0, j = 3; i < 15; i++, j++)
             {
                 PrintShapes(j);
+                flag = 0;
                 x = 0;
                 y = 0;
                 while (flag != 1)
